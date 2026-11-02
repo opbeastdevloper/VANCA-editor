@@ -1,0 +1,23 @@
+Local run this app 
+
+Step 1 
+
+open cmd run this cmd 
+
+cd C:\Users\Admin\Downloads\New folder\vanca
+npm install
+
+
+step 2 
+
+second cmd 
+
+npm run dev
+
+Step 3 
+
+run browser url  http://localhost:5173
+
+Wraning 
+
+Dont clost cmd prompt 
